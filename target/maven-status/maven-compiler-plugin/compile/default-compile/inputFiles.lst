@@ -1,0 +1,15 @@
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/model/Event.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/services/EventServicesImpl.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/utils/HibernateUtil.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/dao/EventDAO.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/utils/NonTransactionCallable.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/dao/GenericDAOImpl.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/dao/EventDAOImpl.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/utils/TransactionManager.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/services/EventServices.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/utils/SampleEventManager.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/model/Action.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/utils/TransactionCallable.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/model/Command.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/utils/SampleRest.java
+/home/lurodrig/development/workspaces/patterns/simple-model/src/main/java/ch/cern/it/db/ims/mwod/dao/GenericDAO.java
